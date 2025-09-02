@@ -1,0 +1,1 @@
+Network speed test app written with Python and Qt6

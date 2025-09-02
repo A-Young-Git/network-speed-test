@@ -3,5 +3,7 @@ name = "network-speed-test"
 version = "0.1.0"
 description = "network speed test app written with Python and Qt6"
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "speedtest-cli>=2.1.3",
+]
